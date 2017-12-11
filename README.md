@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+December 11, 2017
 
 ### Student Name:  
-(First and Last Name)
+Amber Anderson
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment we used AJAX, JSON, and Apixu API to create a web application to show us the weather in different parts of the world.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://amberson96.github.io/Weather-Channel/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned that an API is the must crucial step to creating an application online.
+2. An API key is used to track and control how the API is being used.
+3. The key is a unique identifier and a "secret token" for authentication.
